@@ -114,3 +114,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# --- Tai lieu noi bo THT: KHONG duoc day len repo cong khai ---
+# Repo nay la Public va duoc GitHub Pages phuc vu ra Internet.
+# Moi file nam trong repo deu tai ve duoc neu biet duong dan.
+Bao gia Ke toan/
+Bao gia Kiem toan/
+*.xlsx
+*.docx
+*.pdf
